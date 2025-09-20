@@ -10,7 +10,7 @@ Import the numpy module to use the built-in functions for calculation
 ### Step 2:
 Prepare the lists from each linear equations and assign in np.array()
 ### Step 3:
-using np.linalg.inv(A),we can find the inverse of the solutions.
+using np.linalg.inv(),we can find the inverse of the solutions.
 ### Step 4:
 end the program
 
